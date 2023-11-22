@@ -4,7 +4,7 @@ This is a python project on Sleep and Lifestyle
 
 ## Overview
 
-Welcome to the Sleep Health and Lifestyle Analysis project! In this project, we delve into a fascinating dataset obtained from Kaggle, exploring the intricate relationship between sleep patterns and various lifestyle factors. The dataset provides a rich source of information, offering insights into how different aspects of our lives may influence the quality and duration of our sleep.
+Welcome to the Sleep Health and Lifestyle Analysis project! In this project, I delved into a fascinating dataset obtained from Kaggle, exploring the intricate relationship between sleep patterns and various lifestyle factors. The dataset provides a rich source of information, offering insights into how different aspects of our lives may influence the quality and duration of our sleep.
 
 ## Project Highlights
 
